@@ -1,6 +1,7 @@
-Question 1 :Set Matrix Zeros
+/*Question 1 :Set Matrix Zeros
 
-solution:#include <bits/stdc++.h>
+solution:*/
+
 
 void setZeros(vector<vector<int>> &matrix)
 {
