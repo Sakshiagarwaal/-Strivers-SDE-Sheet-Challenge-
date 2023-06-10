@@ -25,7 +25,7 @@ space:O(1)
 
 
     /*Better approach using hashing
-    time: O()
+    time: O(n+m)
     space: O(n)
     */
 
