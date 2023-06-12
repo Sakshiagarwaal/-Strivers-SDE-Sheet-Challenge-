@@ -1,0 +1,4 @@
+/*Brute force 
+time:
+space:
+*/
