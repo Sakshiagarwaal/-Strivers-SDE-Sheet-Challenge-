@@ -1,5 +1,5 @@
-/*Brute force will be u=generating all subsets (powerSet)
-time : O(2^NN)
+/*Brute force will by generating all subsets (powerSet)
+time : O(2^N)
 space:O(2^N)
 */
 
